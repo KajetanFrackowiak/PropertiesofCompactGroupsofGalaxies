@@ -1,0 +1,8 @@
+This is the *Properties of Compact Groups of Galaxies* project I made myself.
+
+
+<p>Most galaxies in the Universe are found as highly-dense groups or clusters. The densest and the most populous are galaxy clusters — they may contain 50+ relatively bright galaxies in the area of a few megaparsecs. Smaller aggregations are called groups and compact groups (CGs). Compact groups are of particular interest for studying galaxy merging and the properties of interacting galaxies. This project presents an opportunity to be an astrophysicist. Discover interesting properties of compact groups with the statistical methods of Python. Don't worry if you're completely new to the field of astrophysics — we'll explain all the important concepts and provide you with the tips to help you navigate. But be ready to learn a lot of new information!</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/249?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/249</a>
+
+Here's the link to the project: https://hyperskill.org/projects/249
+
+Check out my profile: https://hyperskill.org/profile/457141945

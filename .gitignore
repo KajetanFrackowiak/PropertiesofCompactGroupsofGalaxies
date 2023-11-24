@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Properties of Compact Groups of Galaxies/*
+!/Properties of Compact Groups of Galaxies/task/
+/Properties of Compact Groups of Galaxies/task/*
+!/Properties of Compact Groups of Galaxies/task/solution.py
+!/Properties of Compact Groups of Galaxies/task/isolated_galaxies.tsv
+!/Properties of Compact Groups of Galaxies/task/galaxies_morphology.tsv
+!/Properties of Compact Groups of Galaxies/task/groups.tsv
+!/Properties of Compact Groups of Galaxies/task/answers.txt
+!/Properties of Compact Groups of Galaxies/task/galaxies_coordinates.tsv
